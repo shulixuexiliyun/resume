@@ -95,7 +95,3 @@
  	url: http://localhost:9090/movie/cinema/?city=bj
  	参数说明:  city可以为bj、sh、gz
 	```
-
-
-## 项目博客地址
-如果对项目有疑惑的地方，请到[http://www.cnblogs.com/canfoo/p/6214406.html](http://www.cnblogs.com/canfoo/p/6214406.html)里留言。如果觉得这个项目对你有帮助的话，请Star一下本项目，这是对作者最大的支持。
